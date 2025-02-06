@@ -645,4 +645,6 @@ if __name__ == "__main__":
             else:
                 continuous_empty_case += 1
 
+            current_diary_number += 1
+
         from_year -= 1
